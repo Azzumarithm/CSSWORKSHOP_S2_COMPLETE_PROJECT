@@ -2,16 +2,19 @@
 
 # Testing responsiveness
 
-[(width x height)] [tailwind utility]
+[(width x height)] 
 
-767 x 647 sm and below
-768 x 647 md
-1024 x 647 lg
---------------
-1280 x 647 xl
-1478 x 647 xl
---------------
-1536 2xl
+767 x 647 sm and below : mobile
+
+768 x 647 md : medium large screen
+
+1024 x 647 lg : large screen
+
+1280 x 647 xl : extra large screen
+
+1478 x 647 xl : extra large screen - 2
+
+1536 2xl : extra extra large screen
 
 # Resources
 https://www.iconfinder.com/search?q=facebook&price=free
